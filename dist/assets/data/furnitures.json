@@ -1,0 +1,101 @@
+{
+    "response":[
+        {
+            "name":"Coombes",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":1,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+        {
+            "name":"Desk",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":2,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+        {
+            "name":"Bench",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":3,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+        {
+            "name":"Table",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":4,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+        {
+            "name":"Chair",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":5,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+        {
+            "name":"Sofa",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":6,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+        {
+            "name":"Study table",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":7,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+
+        {
+            "name":"Dinning table",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":8,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+        {
+            "name":"Dressing table",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":9,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+        {
+            "name":"Tea table",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":10,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+        {
+            "name":"Wall piece",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":11,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        },
+        {
+            "name":"Massage table",
+            "category":"Lounge",
+            "cost":2600,
+            "stars": 4,
+            "id":12,
+            "imgUrl":"./assets/images/image-1.jpeg"
+        }
+    ]
+}

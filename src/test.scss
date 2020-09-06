@@ -1,0 +1,147 @@
+.header-search input{
+    border: none;
+    border-bottom: 2px solid #f4d191;
+    border-radius: 0px;
+    width: 100% !important;
+}
+.header-logo{
+    background: black;
+    padding: 15px;
+    color: white;
+}
+.nav-item{
+    min-width: 100px;
+    text-align: center;
+}
+.nav-link{
+    width: 100%;
+}
+.filter-head{
+    font-size: 14px;
+}
+.card-header{
+    background-color: transparent;
+    padding:5px 0px 5px 0px;
+}
+.card{
+    border: none;
+    border-bottom: 1px solid rgba(0,0,0,.125) !important;
+}
+.padding-0{
+    padding: 0px;
+}
+.btn:focus{
+    outline: none;
+    box-shadow: none;
+}
+.display-item{
+    height: 220px;
+    width: 200px;
+    margin: 10px 0px 10px 0px;
+}
+.centered-div{
+    text-align: -webkit-center;
+}
+.display-image{
+    height: 75%;
+    width: 100%;
+    object-fit: cover;
+}
+.display-name{
+    position: relative;
+    top: -10%;
+    text-align: left;
+}
+.main-name{
+    font-size: 14px;
+    background-color: white;
+    padding-top:12px;
+    width: 70%;
+}
+.font-10{
+    font-size: 10px;
+}
+.display-price{
+    float: right;
+    color: black;
+    font-size: 14px;
+    margin-top: -4px;
+}
+.cart-icon{
+    position: absolute;
+    right: 0px;
+}
+.images-section{
+    text-align: center;
+}
+.main-image{
+    max-width: 300px;
+    max-height: 300px;
+}
+.available-images{
+    margin-top: 20px;
+}
+.secondary-image{
+    width: 50px;
+    opacity: 0.4;
+}
+.selected-image{
+    opacity: 1;
+}
+.left-carrot{
+    position: absolute;
+    left: 0px;
+    font-size: 40px;
+    top: 60px;
+    cursor: pointer;
+}
+.right-carrot{
+    position: absolute;
+    right: 0px;
+    font-size: 40px;
+    top: 60px;
+    cursor: pointer;
+}
+.furniture-name{
+    text-align: left;
+    font-size: 14px;
+}
+.furniture-collection{
+    text-align: left;
+    font-size: 24px;
+    color: #020238;
+}
+.furniture-description{
+    text-align: left;
+    font-size: 14px;
+    margin-top: 15px;
+}
+.color-ranges{
+    text-align: left;
+    margin-top: 10px;
+    display: inline-flex;
+}
+.color{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: gray;
+    margin-right: 5px;
+}
+.furniture-price{
+    text-align: left;
+}
+.price-label{
+    position: relative;
+    top: 5px;
+    font-size: 22px ;
+}
+.buy-btn{
+    margin-left: 20px;
+    background-color: #020238;
+    border-color: #020238;
+    border-radius: 0px;
+}
+.cart-span{
+    margin-left: 20px;
+}
